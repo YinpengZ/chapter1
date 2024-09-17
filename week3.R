@@ -5,3 +5,4 @@ create_github_token()
 #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
 gitcreds_set()
 gitcreds::gitcreds_set()
+usethis::create_from_github("https://github.com/smcnew/ECOL_596W_2024.git")
